@@ -6,3 +6,4 @@ def aprovado(media):
         return "Aprovado"
     else:
         return "Reprovado"
+#teste
